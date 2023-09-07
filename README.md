@@ -1,3 +1,3 @@
 ﻿# mytext_Editor
 
-- >MyTextEditor(Simple)<br>https://nachiket-2005.github.io/mytext_Editor/src/
+- >MyTextEditor(Simple)<br>https://hustlewithnachiket.github.io/mytext_Editor/src/
